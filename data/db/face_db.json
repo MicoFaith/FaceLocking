@@ -2,11 +2,7 @@
   "timestamp": "2026-02-05 20:36:13",
   "embedding_dim": 512,
   "names": [
-    "Faith",
-    "hackim",
-    "hackim2",
-    "lanez",
-    "lanez2"
+    "Faith"
   ],
   "samples_used": 11
 }
